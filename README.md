@@ -4,9 +4,9 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/instagram-E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/zealoushero?igshid=NGVhN2U2NjQ0Yg==)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=EEEEEE)](https://www.linkedin.com/in/sudhir-kumar-358b50249/)
 [![facebook](https://img.shields.io/badge/facebook-1877F2.svg?style=for-the-badge&logo=facebook&logoColor=EEEEEE)](https://www.facebook.com/zealoushero)
+[![Instagram](https://img.shields.io/badge/instagram-E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/zealoushero?igshid=NGVhN2U2NjQ0Yg==)
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-EEEEEE.svg?style=for-the-badge&logo=html5&logoColor=E34F26)
